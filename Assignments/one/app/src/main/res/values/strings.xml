@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">CreateActivity</string>
+
+    <string-array name="university_array">
+        <item>University of Jeddah</item>
+        <item>King Abdulaziz University</item>
+        <item>Taibah University</item>
+    </string-array>
+
+</resources>
