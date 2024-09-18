@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">My Messenger</string>
-    <string name="send">Send Message</string>
-    <string name="hint">Enter a message</string>
+    <string name="send">Send information</string>
+    <string name="hint1">Enter the ID</string>
+    <string name="hint2">Enter the name</string>
+
+    <string-array name="major">
+        <item>SWE</item>
+        <item>AI</item>
+        <item>CY</item>
+    </string-array>
 </resources>

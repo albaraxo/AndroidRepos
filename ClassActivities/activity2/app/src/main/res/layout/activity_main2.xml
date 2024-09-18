@@ -6,8 +6,19 @@
     android:padding="16dp"
     android:orientation="vertical">
     <TextView
-        android:id="@+id/message"
+        android:id="@+id/message1"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="The ID:"/>
+    <TextView
+        android:id="@+id/message2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Name:"/>
+    <TextView
+        android:id="@+id/message3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The major"/>
 
 </LinearLayout>

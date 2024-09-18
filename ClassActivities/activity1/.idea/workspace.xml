@@ -7,7 +7,7 @@
     <layouts>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
-          <theme>@style/Theme.CreateActivity</theme>
+          <theme>@style/Theme.TestAndroid</theme>
         </config>
       </layout>
     </layouts>
@@ -16,7 +16,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32d00176-fdbf-4784-a922-eec9d270f0d4" name="Changes" comment="" />
+    <list default="true" id="6575eeb7-c3e8-4d1a-82d9-3c6124271fe0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../activity2/app/src/main/java/com/example/myapplication/CreateMesaage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../activity2/app/src/main/java/com/example/myapplication/CreateMesaage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity2/app/src/main/java/com/example/myapplication/RecieveMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../activity2/app/src/main/java/com/example/myapplication/RecieveMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../activity2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity2/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../activity2/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../activity2/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,22 +48,22 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="CreateActivity" type="f1a62948:ProjectNode" />
+                <item name="testAndroid" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="CreateActivity" type="f1a62948:ProjectNode" />
+                <item name="testAndroid" type="f1a62948:ProjectNode" />
                 <item name="app" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="CreateActivity" type="f1a62948:ProjectNode" />
+                <item name="testAndroid" type="f1a62948:ProjectNode" />
                 <item name="app" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="CreateActivity" type="f1a62948:ProjectNode" />
+                <item name="testAndroid" type="f1a62948:ProjectNode" />
                 <item name="app" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="other" type="c8890929:TasksNode$1" />
@@ -69,23 +75,13 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="resourceFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2lpqeGqM6HACgtup3l6vg74KSRi" />
+  <component name="ProjectId" id="2lptGg63P2Vhm9J7zZVIF1mQiAh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,27 +96,13 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/albaraxoabumanssor/AndroidRep/Assignments/Assignment_1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/albaraxoabumanssor/AndroidRep/ClassActivities/testAndroid&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Properties&quot;
-    ]
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="CreateActivity.app.main" />
+      <module name="testAndroid.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -187,11 +169,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32d00176-fdbf-4784-a922-eec9d270f0d4" name="Changes" comment="" />
-      <created>1725887458410</created>
+      <changelist id="6575eeb7-c3e8-4d1a-82d9-3c6124271fe0" name="Changes" comment="" />
+      <created>1725888751184</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1725887458410</updated>
+      <updated>1725888751184</updated>
     </task>
     <servers />
   </component>
