@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+Labs/googleMapActivity/app/src/main/res/values/strings.xml
+
