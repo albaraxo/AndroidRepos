@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="title_activity_maps">MapsActivity</string>
+<<<<<<< HEAD
     <string name="APIKey">AIzaSyA_pM-289Fx_c0YP5sI6uN8gHN4XNawiPQ</string>
     <string name="trY">test</string>
 </resources>
+=======
+    <string name="APIKey"></string>
+</resources>
+>>>>>>> 772238a4be31c3af118ba8b15c9b9597194c5ca3
